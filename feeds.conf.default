@@ -3,4 +3,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-19.07
 src-git packages https://github.com/Lienol/openwrt-packages.git;my-19.07
 src-git luci https://github.com/Lienol/openwrt-luci.git;my-18.06
 src-git lienol https://github.com/Lienol/openwrt-package
-src-svn darkmatter https://github.com/Lienol/luci-theme-darkmatter/trunk
+src-git darkmatter https://github.com/Lienol/luci-theme-darkmatter;luci-18.06
